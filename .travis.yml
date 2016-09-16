@@ -1,5 +1,5 @@
 language: java
 
 script:
-  - javac Moteur.java
-  - javac Voiture.java
+  - javac src/Moteur.java
+  - javac src/Voiture.java
